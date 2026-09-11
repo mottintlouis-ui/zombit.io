@@ -1,0 +1,6 @@
+{
+  "name": "Zombie Core Arena",
+  "description": "Jeu 3D .io de survie par vagues contre des hordes de zombies avec progression de compétences, boss, arène urbaine et boutique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
